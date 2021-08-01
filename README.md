@@ -1,6 +1,7 @@
 # DOMTITO
 1.-Descripción del Proyecto a Entregar:
 
+Un Bot llamado Domtito que ayudara las personas a verificar que sus documentos esten correctos para continuar un tramite gubernamental, al mismo tiempo agendando una cita para el tramite. Ayudando asi a las personas a no perder tiempo ni dinero creando asi una solución de menos burocracia. 
 
 2.-Link al Tiktok:
 https://youtu.be/Ad5DpwGGm4g (Tiktok banneo el video)
