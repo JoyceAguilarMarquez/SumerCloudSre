@@ -6,11 +6,16 @@ Un Bot llamado Domtito que ayudara las personas a verificar que sus documentos e
 2.-Link al Tiktok:
 https://youtu.be/Ad5DpwGGm4g (Tiktok banneo el video)
 
-3.-Diagrama de Azure:
+3.-Diagrama de Azure: 
 
-4.-SLA Compuesto:
+Cliente -> App service -> QnA maker (bot) -> App service -> Respuesta al cliente
+                                |
+                         Azure custom vision
+                                 |
+                        SQL database (imagenes)
+4.-SLA Compuesto:  
 
-5.-TCO 3 años y Precio Total por mes:
+5.-TCO 3 años y Precio Total por mes: Esta previsto que la paltaforma llegue a su punto maximo de confiabilidad en tres años generando un costo aproximado de 436,576,323 Dolares, y un aproximado mensual de 9107.24
 
 6.-Tiempo sin disponibilidad a un año:
 
